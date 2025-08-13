@@ -12,6 +12,10 @@
 - 📄 Know about my experiences [Muhammad Elmesary Resume](https://drive.google.com/file/d/1KCP-BXyC5P5Rzh1Y8-ASSLuLrS8Q_8Ch/view?usp=drive_link)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://www.redhat.com/en" target="_blank" rel="noreferrer">
+  <img src="https://imgs.search.brave.com/ysksz4WROtOhq1qISJqrgpq4jol9jCeUE2Z5uxcsxMA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/dHlwLnVzL2ZpbGUv/cmVkaGF0LnN2Zw" alt="redhat" width="40" height="40"/>
+</a>
+
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
