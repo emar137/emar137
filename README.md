@@ -12,6 +12,6 @@
 - 📄 Know about my experiences [Muhammad Elmesary Resume](https://drive.google.com/file/d/1KCP-BXyC5P5Rzh1Y8-ASSLuLrS8Q_8Ch/view?usp=drive_link)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  Linux | Bash | python | Ansible | Docker | Kubernetess | AWS |AWS CLI | Terraform | Git,Github | Github Actions | AWS CI/CD Services | Argocd
+  Linux | Bash | python | Ansible | Docker | Kubernetes | AWS |AWS CLI | Terraform | Git,Github | Github Actions | AWS CI/CD Services | Argocd
 </p>
   
