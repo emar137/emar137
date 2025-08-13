@@ -3,9 +3,9 @@
 # Ahmed-Soliman
 <h1 align="center">Hi 👋, I'm Ahmed Soliman</h1>
 <h3 align="center"> DevOps/SRE engineer</h3>
-🎓 I am a DevOps passionate!
-🏃‍♂️ I am passionate about DevOps, Cloud and Infrastructure.
-💬 Ask me about anything, and I will be happy to help.
+<p>🎓 I am a DevOps passionate!</p>
+<p>🏃‍♂️ I am passionate about DevOps, Cloud and Infrastructure.</p>
+<p>💬 Ask me about anything, and I will be happy to help.</p>
 
 - 📫 How to reach me **ahmedssoliman960@gmail.com**
 
