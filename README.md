@@ -32,16 +32,6 @@
     <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="jenkins" width="80" height="80"/>
   </a>
 
-  <!-- Monitoring & Logs -->
-  <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  </a>
-  <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
-  </a>
-  <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>
-  </a>
 
   <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
