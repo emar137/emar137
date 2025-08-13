@@ -3,8 +3,11 @@
 # Ahmed-Soliman
 <h1 align="center">Hi 👋, I'm Ahmed Soliman</h1>
 <h3 align="center"> DevOps/SRE engineer</h3>
+🎓 I am a DevOps passionate!
+🏃‍♂️ I am passionate about DevOps, Cloud and Infrastructure.
+💬 Ask me about anything, and I will be happy to help.
 
-- 📫 How to reach me **mohamed.elmasary123@gmail.com**
+- 📫 How to reach me **ahmedssoliman960@gmail.com**
 
 - 📄 Know about my experiences [Muhammad Elmesary Resume](https://drive.google.com/file/d/1KCP-BXyC5P5Rzh1Y8-ASSLuLrS8Q_8Ch/view?usp=drive_link)
 
