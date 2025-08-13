@@ -21,9 +21,7 @@
   <a href="https://argo-cd.readthedocs.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/argoproj/argo-cd/stable/docs/assets/argo.png" alt="argocd" width="40" height="40"/>
   </a>
-  <a href="https://aws.amazon.com/cloudwatch/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="cloudwatch" width="40" height="40"/>
-  </a>
+
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
@@ -42,19 +40,10 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
-  <a href="https://www.redhat.com/en" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Red_Hat_logo.svg" alt="redhat" width="40" height="40"/>
-  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  </a>
-  <a href="https://prometheus.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/>
-  </a>
-</p>
+
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmelmesary&show_icons=true&locale=en&layout=compact" alt="mmelmesary" />
