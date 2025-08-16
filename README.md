@@ -14,10 +14,7 @@
 <a href="https://linkedin.com/in/muhammadelmesary123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadelmesary123" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  Linux | Bash | Python | Ansible | Docker | Kubernetes | AWS | AWS CLI | Terraform | Git, GitHub | GitHub Actions | AWS CI/CD Services | ArgoCD
-  
-</p>
+
 <p align="left">
   <b>Linux</b> | <b>Bash</b> | <b>Python</b> | <b>Ansible</b> | <b>Docker</b> | <b>Kubernetes</b> | <b>AWS</b> | <b>AWS CLI</b> | <b>Terraform</b> | <b>Git, GitHub</b> | <b>GitHub Actions</b> | <b>AWS CI/CD Services</b> | <b>ArgoCD</b>
 </p>
