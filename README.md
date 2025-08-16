@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Soliman</h1>
-<h3 align="center"> DevOps/SRE engineer</h3>
-<p>🎓 I am a DevOps passionate! and Linux Geek</p>
+<h3 align="center"> DevOps/SRE Engineer</h3>
 <p>🏃‍♂️ I am passionate about DevOps, Cloud Infrastructure. and Linux System Administartion</p>
 <p>💬 Ask me about anything, and I will be happy to help.</p>
 
