@@ -15,8 +15,13 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  Linux | Bash | python | Ansible | Docker | Kubernetes | AWS |AWS CLI | Terraform | Git,Github | Github Actions | AWS CI/CD Services | Argocd
+  Linux | Bash | Python | Ansible | Docker | Kubernetes | AWS | AWS CLI | Terraform | Git, GitHub | GitHub Actions | AWS CI/CD Services | ArgoCD
+  
 </p>
+<p align="left">
+  <b>Linux</b> | <b>Bash</b> | <b>Python</b> | <b>Ansible</b> | <b>Docker</b> | <b>Kubernetes</b> | <b>AWS</b> | <b>AWS CLI</b> | <b>Terraform</b> | <b>Git, GitHub</b> | <b>GitHub Actions</b> | <b>AWS CI/CD Services</b> | <b>ArgoCD</b>
+</p>
+
 <p align="left">
   <!-- Cloud Platforms -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
