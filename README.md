@@ -4,7 +4,7 @@
 </p>
 <p>🏃‍♂️ I am passionate about DevOps, Cloud Infrastructure and Linux System Administartion.</p>
 <p>💬 Ask me about anything, and I will be happy to help.</p>
-<h3>🚀 DevOps E2E Projects</h3>
+<h3>🚀 DevOpsEnd-to-End Projects</h3>
 <ul>
   <li>📃 <a href="https://github.com/yourusername/Data-Migration-Project" target="_blank"> Project1</a></li>
   <li>📃 <a href="https://github.com/yourusername/Parts-Unlimited-E2E" target="_blank">Project2</a></li>
