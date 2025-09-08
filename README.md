@@ -5,13 +5,11 @@
 <p>🏃‍♂️ I am passionate about DevOps, Cloud Infrastructure and Linux System Administartion.</p>
 <p>💬 Ask me about anything, and I will be happy to help.</p>
 
-<p>📫 How to reach me ahmedssoliman960@gmail.com</p>
+<p><a>📫 How to reach me ahmedssoliman960@gmail.com</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/Ahmedsoliman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadelmesary123" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/Ahmedsoliman" target="blank"><img align="center" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vtphMtxRWfK6nO2CIbGfSETyEs79Dr6oPw&s)" alt="muhammadelmesary123" height="40" width="30" /></a>
-
 </p>
 <p align="left">
 </p>
