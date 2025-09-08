@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Soliman</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%9A%80+DevOps+Engineer;%E2%9A%99%EF%B8%8F+SRE+Engineer;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%9A%80+DevOps+Engineer;%E2%9A%99%EF%B8%8F+Cloud+Engineer;%E2%9A%99%EF%B8%8F+infrastructure+Engineer;" alt="Typing SVG" /></a>
 </p>
 <p>🏃‍♂️ I am passionate about DevOps, Cloud Infrastructure and Linux System Administartion.</p>
 <p>💬 Ask me about anything, and I will be happy to help.</p>
