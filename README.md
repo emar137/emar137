@@ -6,10 +6,9 @@
 <p>💬 Ask me about anything, and I will be happy to help.</p>
 <h3>🚀 DevOps E2E Projects</h3>
 <ul>
-  <li>📃 <a href="https://github.com/yourusername/Data-Migration-Project" target="_blank">Data Migration Project</a></li>
-  <li>📃 <a href="https://github.com/yourusername/Parts-Unlimited-E2E" target="_blank">Parts Unlimited E-Commerce WebApp (E2E)</a></li>
-  <li>📃 <a href="https://github.com/yourusername/DevSecOps-EntraID" target="_blank">DevSecOps with Microsoft Entra ID</a></li>
-</ul>
+  <li>📃 <a href="https://github.com/yourusername/Data-Migration-Project" target="_blank"> Project1</a></li>
+  <li>📃 <a href="https://github.com/yourusername/Parts-Unlimited-E2E" target="_blank">Project2</a></li>
+  </ul>
 
 <p> 
   📫 How to reach me:
