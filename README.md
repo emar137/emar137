@@ -18,7 +18,7 @@
 </p>
 <p align="left">
 </p>
-<h3 align="left"> 🛠️Languages and Tools:</h3>
+<h3 align="left"> 🛠️ Languages and Tools:</h3>
 
 <p align="left">
   <b>Linux</b> | <b>Bash</b> | <b>Python</b> | <b>Ansible</b> | <b>Docker</b> | <b>Kubernetes</b> | <b>AWS</b> | <b>AWS CLI</b> | <b>Terraform</b> | <b>Git, GitHub</b> | <b>GitHub Actions</b> | <b>AWS CI/CD Services</b> | <b>ArgoCD</b>
@@ -56,7 +56,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
   </div>
   
-<h3 align="left"> 👉Connect with me:</h3>
+<h3 align="left"> 👉 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/Ahmedsoliman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadelmesary123" height="30" width="40" /></a>
 <a href="mailto:ahmedssoliman960@gmail.com" target="blank">
