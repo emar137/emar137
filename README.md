@@ -4,7 +4,7 @@
 </p>
 <p>🏃‍♂️ I am passionate about DevOps, Cloud Infrastructure and Linux System Administartion.</p>
 <p>
-  <p>💻 I have a passion for technology through various side projects that use a variety of technologies,</p>
+  <p>💻 I have a passion for technology through applying various side projects that use a variety of technologies,</p>
   <P>&nbsp;&nbsp;&nbsp; which help me expand my knowledge and stay up to date with the latest trends in DevOps practices.
 </P>
 </p>
