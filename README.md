@@ -5,7 +5,7 @@
 <p>🏃‍♂️ I am passionate about DevOps, Cloud Infrastructure and Linux System Administartion.</p>
 <p>💬 Ask me about anything, and I will be happy to help.</p>
 
-- 📫 How to reach me **ahmedssoliman960@gmail.com**
+<p>📫 How to reach me **ahmedssoliman960@gmail.com**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
