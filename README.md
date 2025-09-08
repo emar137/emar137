@@ -5,7 +5,7 @@
 <p>🏃‍♂️ I am passionate about DevOps, Cloud Infrastructure and Linux System Administartion.</p>
 <p>💬 Ask me about anything, and I will be happy to help.</p>
 
-<p><a>📫 How to reach me ahmedssoliman960@gmail.com</a></p>
+<p> <a a href="https://linkedin.com/in/Ahmedsoliman" target="blank">📫 How to reach me ahmedssoliman960@gmail.com</a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
