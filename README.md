@@ -4,11 +4,11 @@
 </p>
 <p>🏃‍♂️ I am passionate about DevOps, Cloud Infrastructure and Linux System Administartion.</p>
 <p>💬 Ask me about anything, and I will be happy to help.</p>
-
 <p> 
-  📫 How to reach me
-  <a  href="ahmedssoliman960@gmail.com" target="blank"> ahmedssoliman960@gmail.com</a> 
+  📫 How to reach me:
+  <a href="mailto:ahmedssoliman960@gmail.com" target="_blank">ahmedssoliman960@gmail.com</a>
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
